@@ -47,19 +47,19 @@ progress details. The names below are the achievements documented by GitHub or
 commonly visible in the profile achievement system; some are historical and can
 no longer be earned.
 
-| Achievement | How to work toward it | Availability |
-| --- | --- | --- |
-| **Quickdraw** | Close an issue or pull request within 5 minutes of opening it. | Available when GitHub's current criteria are met |
-| **Pull Shark** | Get pull requests merged. More merged pull requests unlock higher tiers. | Available |
-| **YOLO** | Merge a pull request without having a code review. | Available |
-| **Pair Extraordinaire** | Have a pull request co-authored by another GitHub user and get it merged. | Available |
-| **Galaxy Brain** | Have answers in GitHub Discussions marked as accepted. | Available |
-| **Starstruck** | Earn stars on a repository. Higher tiers require more stars. | Available |
-| **Public Sponsor** | Sponsor an open-source maintainer or project publicly. | Available while sponsorship is active |
-| **Arctic Code Vault Contributor** | Contribute code that was included in GitHub's 2020 Arctic Code Vault snapshot. | Historical |
-| **Mars 2020 Contributor** | Contribute to a repository included in GitHub's Mars 2020 mission payload. | Historical |
-| **Heart On Your Sleeve** | Publicly sponsor an open-source maintainer or project. | Availability may vary; check your profile |
-| **Open Sourcerer** | Contribute to public repositories. | Availability may vary; check your profile |
+| Badge | Achievement | How to work toward it | Availability |
+| --- | --- | --- | --- |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" alt="Quickdraw badge"> | **Quickdraw** | Close an issue or pull request within 5 minutes of opening it. | Available when GitHub's current criteria are met |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="64" alt="Pull Shark badge"> | **Pull Shark** | Get pull requests merged. More merged pull requests unlock higher tiers. | Available |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64" alt="YOLO badge"> | **YOLO** | Merge a pull request without having a code review. | Available |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="64" alt="Pair Extraordinaire badge"> | **Pair Extraordinaire** | Have a pull request co-authored by another GitHub user and get it merged. | Available |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="64" alt="Galaxy Brain badge"> | **Galaxy Brain** | Have answers in GitHub Discussions marked as accepted. | Available |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="64" alt="Starstruck badge"> | **Starstruck** | Earn stars on a repository. Higher tiers require more stars. | Available |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="64" alt="Public Sponsor badge"> | **Public Sponsor** | Sponsor an open-source maintainer or project publicly. | Available while sponsorship is active |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="64" alt="Arctic Code Vault Contributor badge"> | **Arctic Code Vault Contributor** | Contribute code that was included in GitHub's 2020 Arctic Code Vault snapshot. | Historical |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="64" alt="Mars 2020 Contributor badge"> | **Mars 2020 Contributor** | Contribute to a repository included in GitHub's Mars 2020 mission payload. | Historical |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="64" alt="Heart On Your Sleeve badge"> | **Heart On Your Sleeve** | Publicly sponsor an open-source maintainer or project. | Availability may vary; check your profile |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="64" alt="Open Sourcerer badge"> | **Open Sourcerer** | Contribute to public repositories. | Availability may vary; check your profile |
 
 GitHub does not publish every threshold for every achievement. Do not spam
 issues, pull requests, reviews, or discussions: contribute meaningfully and
