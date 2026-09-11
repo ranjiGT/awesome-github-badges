@@ -22,6 +22,23 @@ People commonly use "GitHub badge" for two different things:
 
 This guide focuses on the first kind.
 
+## Achievement gallery
+
+These are the standard artwork examples currently served by GitHub. Select an
+image to view the achievement's current details on GitHub's documentation.
+
+<p>
+	<a href="https://docs.github.com/en/account-and-profile/concepts/contributions-on-your-profile">
+		<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" alt="Quickdraw achievement badge">
+	</a>
+	<a href="https://docs.github.com/en/account-and-profile/concepts/contributions-on-your-profile">
+		<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark achievement badge">
+	</a>
+	<a href="https://docs.github.com/en/account-and-profile/concepts/contributions-on-your-profile">
+		<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="120" alt="Starstruck achievement badge">
+	</a>
+</p>
+
 ## Achievement checklist
 
 The most reliable way to discover what is available to your account is to open
